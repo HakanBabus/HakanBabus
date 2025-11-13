@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**HakanBabus/HakanBabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hakan. I’m learning software development and building small projects.  
+You can find C, PHP, and simple automation projects on my profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- **My GitHub Profile:** [github.com/HakanBabus](https://github.com/HakanBabus)
+- **My Projects:** You can check them on my repositories page.
+
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakanBabus&show_icons=true&theme=default)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=HakanBabus&color=blue&style=flat)
+
+---
+
