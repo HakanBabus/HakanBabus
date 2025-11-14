@@ -1,20 +1,32 @@
-# Hello 👋
+<div align="center">
 
-I'm Hakan. I’m learning software development and building small projects.  
-You can find C, PHP, and simple automation projects on my profile.
+  <!-- Mikasa GIF Banner -->
+  <img src="https://cdn.pfps.gg/banners/7420-attack-on-titan.png" width="450" alt="mikasa-banner">
 
----
+  # Hello 👋
 
-## 🔗 Links
-- **My GitHub Profile:** [github.com/HakanBabus](https://github.com/HakanBabus)
-- **My Projects:** You can check them on my repositories page.
+  I'm Hakan. I’m learning software development and building small projects.  
+  You can find C, PHP, JavaScript and simple automation projects on my profile.
 
----
+  ---
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakanBabus&show_icons=true&theme=default)
+  ## 🔗 Links
+  - **My GitHub Profile:** [github.com/HakanBabus](https://github.com/HakanBabus)
+  - **My Projects:** You can check them on my repositories page.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HakanBabus&color=blue&style=flat)
+  ---
 
----
+  ## 📊 GitHub Statistics
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=HakanBabus&show_icons=true&theme=tokyonight" height="150">
+  
+  <br><br>
 
+  <img src="https://komarev.com/ghpvc/?username=HakanBabus&color=blue&style=flat">
+
+  ---
+
+  <!-- Bottom aesthetic GIF -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25">
+
+</div>
