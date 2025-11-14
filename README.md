@@ -26,7 +26,4 @@
 
   ---
 
-  <!-- Bottom aesthetic GIF -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25">
-
 </div>
