@@ -1,12 +1,11 @@
 <div align="center">
 
-  <!-- Mikasa GIF Banner -->
-  <img src="https://cdn.pfps.gg/banners/7420-attack-on-titan.png" width="450" alt="mikasa-banner">
-
   # Hello 👋
 
   I'm Hakan. I’m learning software development and building small projects.  
   You can find C, PHP, JavaScript and simple automation projects on my profile.
+
+  <img src="https://cdn.pfps.gg/banners/7420-attack-on-titan.png" width="450" alt="mikasa-banner">
 
   ---
 
