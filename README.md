@@ -7,13 +7,11 @@
 
   <img src="https://cdn.pfps.gg/banners/7420-attack-on-titan.png" width="450" alt="mikasa-banner">
 
-  ---
 
   ## 🔗 Links
   - **My GitHub Profile:** [github.com/HakanBabus](https://github.com/HakanBabus)
   - **My Projects:** You can check them on my repositories page.
 
-  ---
 
   ## 📊 GitHub Statistics
   
@@ -23,6 +21,5 @@
 
   <img src="https://komarev.com/ghpvc/?username=HakanBabus&color=blue&style=flat">
 
-  ---
 
 </div>
