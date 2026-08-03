@@ -44,14 +44,6 @@
 
 
   <p align="center">
-    <img
-      src="https://streak-stats.demolab.com?user=HakanBabus&theme=tokyonight&hide_border=true"
-      width="70%"
-      alt="GitHub contribution streak"
-    >
-  </p>
-
-  <p align="center">
     <a href="https://github.com/HakanBabus">
       View my full contribution activity on GitHub →
     </a>
