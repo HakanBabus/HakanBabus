@@ -8,9 +8,6 @@
   <a href="https://github.com/HakanBabus">
     <img src="https://img.shields.io/badge/GitHub-HakanBabus-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://hakanbabus.xyz">
-    <img src="https://img.shields.io/badge/Website-hakanbabus.xyz-161b22?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
 </p>
 
 <p>
