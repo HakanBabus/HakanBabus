@@ -36,7 +36,6 @@ I’m Hakan, a Computer Engineering student who enjoys turning ideas into useful
     <td width="50%" valign="top">
       <p><a href="https://github.com/HakanBabus/CutLoc"><strong>CutLoc</strong></a> · <sub>Public</sub></p>
       <sub>Local-first video editor for creative work.</sub><br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
     </td>
     <td width="50%" valign="top">
