@@ -29,31 +29,35 @@ I’m Hakan, a Computer Engineering student who enjoys turning ideas into useful
 - I use tools such as OpenAI Codex for planning, implementation, debugging, and verification.
 - I am improving my craft through real projects and public experimentation.
 
-## Featured projects
+## Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HakanBabus/CutLoc">CutLoc</a></h3>
-      <p><strong>Local-first video editor for creative work.</strong></p>
-      <p>A single-user editor with media management, a multi-track timeline, live canvas editing, Inspector controls, motion tools, project recovery, and local FFmpeg export.</p>
-      <p>
-        <a href="https://github.com/HakanBabus/CutLoc">
-          <img src="https://img.shields.io/badge/Explore%20CutLoc-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Explore CutLoc">
-        </a>
-      </p>
-      <sub>React · TypeScript · Vite · Fastify · FFmpeg</sub>
+      <p><a href="https://github.com/HakanBabus/CutLoc"><strong>CutLoc</strong></a> · <sub>Public</sub></p>
+      <sub>Local-first video editor for creative work.</sub><br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HakanBabus/LunaMaxxing">LunaMaxxing</a></h3>
-      <p><strong>Quality-first Codex workflow built through iteration.</strong></p>
-      <p>An adaptive workflow for deliberate framing, evidence gathering, stepwise execution, and explicit verification across coding, product, research, and creative tasks.</p>
-      <p>
-        <a href="https://github.com/HakanBabus/LunaMaxxing">
-          <img src="https://img.shields.io/badge/Explore%20LunaMaxxing-a371f7?style=flat-square&logo=github&logoColor=white" alt="Explore LunaMaxxing">
-        </a>
-      </p>
-      <sub>Codex · Workflow design · PowerShell · Testing</sub>
+      <p><a href="https://github.com/HakanBabus/LunaMaxxing"><strong>LunaMaxxing</strong></a> · <sub>Public</sub></p>
+      <sub>Quality-first Codex workflow for stronger, verified results.</sub><br><br>
+      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+      <img src="https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/HakanBabus/EasyAnnouncement"><strong>EasyAnnouncement</strong></a> · <sub>Public</sub></p>
+      <sub>PocketMine-MP announcement plugin with automatic and manual messages.</sub><br><br>
+      <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/PocketMine--MP-3c3c3c?style=flat-square&logo=minecraft&logoColor=white" alt="PocketMine-MP">
+    </td>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/HakanBabus/BadWord"><strong>BadWord</strong></a> · <sub>Public</sub></p>
+      <sub>PocketMine-MP plugin that blocks configurable bad words in chat.</sub><br><br>
+      <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/API%205-3c3c3c?style=flat-square&logo=minecraft&logoColor=white" alt="PocketMine-MP API 5">
     </td>
   </tr>
 </table>
@@ -61,7 +65,7 @@ I’m Hakan, a Computer Engineering student who enjoys turning ideas into useful
 ## Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,php,java,js,ts,react,vite,nodejs,git,github,godot&perline=6&theme=dark" alt="C, C Sharp, PHP, Java, JavaScript, TypeScript, React, Vite, Node.js, Git, GitHub, and Godot icons">
+  <img src="https://skillicons.dev/icons?i=c,cs,php,java,js,nodejs,git,github,godot&perline=6&theme=dark" alt="C, C Sharp, PHP, Java, JavaScript, Node.js, Git, GitHub, and Godot icons">
 </div>
 
 <p align="center">
@@ -69,25 +73,6 @@ I’m Hakan, a Computer Engineering student who enjoys turning ideas into useful
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex">
 </p>
-
-## Current focus
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>01</strong><br>
-      Local-first products
-    </td>
-    <td align="center" width="33%">
-      <strong>02</strong><br>
-      Reliable AI workflows
-    </td>
-    <td align="center" width="33%">
-      <strong>03</strong><br>
-      Clean, useful interfaces
-    </td>
-  </tr>
-</table>
 
 ## GitHub activity
 
