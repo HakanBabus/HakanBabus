@@ -38,14 +38,15 @@ Experimental **local-first video editor** built around a fast desktop-style edit
 
 <td width="50%" valign="top">
 
-### 🌙 [LunaMaxxing](https://github.com/HakanBabus/LunaMaxxing)
+### ⚡ [AgentMaxxing](https://github.com/HakanBabus/AgentMaxxing)
 
-A **quality-first Codex workflow** focused on planning, bounded subagents, verification, and stronger final results.
+A lightweight **Codex orchestration skill** that keeps the main context clean
+through explicit LUNA worker packets and compact, verifiable handoffs.
 
-**Codex · PowerShell · Agentic Workflows**
+**Codex · LUNA · Multi-Agent Workflows**
 
-<a href="https://github.com/HakanBabus/LunaMaxxing">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View LunaMaxxing">
+<a href="https://github.com/HakanBabus/AgentMaxxing">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View AgentMaxxing">
 </a>
 
 </td>
