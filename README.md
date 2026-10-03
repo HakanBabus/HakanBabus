@@ -4,13 +4,12 @@
 
 ### Computer Engineering Student · Software Builder · AI & Game Tech
 
-I build **local-first tools, developer workflows, Minecraft software, and experimental projects**.
+I build **local-first tools, developer workflows, and Minecraft software**.<br>
+I enjoy turning rough experiments into something useful.
 
-<a href="https://github.com/HakanBabus">
-  <img src="https://img.shields.io/badge/GitHub-HakanBabus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[Featured projects](#featured-projects) · [What I Explore](#what-i-explore) · [All repositories](https://github.com/HakanBabus?tab=repositories)
 
-<br><br>
+<br>
 
 <img src="https://cdn.pfps.gg/banners/7420-attack-on-titan.png" width="680" alt="Attack on Titan banner">
 
@@ -20,128 +19,77 @@ I build **local-first tools, developer workflows, Minecraft software, and experi
 
 ## Featured Projects
 
+A few projects that reflect what I like building: creative tools, better development workflows, and practical server software.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎬 [CutLoc](https://github.com/HakanBabus/CutLoc)
 
-Experimental **local-first video editor** built around a fast desktop-style editing workflow.
+**Local-first video editing**
 
-**React · TypeScript · Fastify · FFmpeg**
+An experimental video editor built around a fast, desktop-style workflow — bringing editing tools and media processing together.
 
-<a href="https://github.com/HakanBabus/CutLoc">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View CutLoc">
-</a>
+<sub>React · TypeScript · Fastify · FFmpeg</sub>
+
+[Explore CutLoc →](https://github.com/HakanBabus/CutLoc)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚡ [AgentMaxxing](https://github.com/HakanBabus/AgentMaxxing)
 
-A lightweight **Codex orchestration skill** that keeps the main context clean
-through explicit LUNA worker packets and compact, verifiable handoffs.
+**More focused agent workflows**
 
-**Codex · LUNA · Multi-Agent Workflows**
+A lightweight Codex orchestration skill for delegating work through explicit worker packets and compact, verifiable handoffs.
 
-<a href="https://github.com/HakanBabus/AgentMaxxing">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View AgentMaxxing">
-</a>
+<sub>Codex · Agent orchestration</sub>
+
+[Explore AgentMaxxing →](https://github.com/HakanBabus/AgentMaxxing)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📢 [EasyAnnouncement](https://github.com/HakanBabus/EasyAnnouncement)
 
-PocketMine-MP plugin for **automatic and manual server announcements**.
+**Keep players in the loop**
 
-**PHP · PocketMine-MP**
+A PocketMine-MP plugin for automatic and manual server announcements, keeping recurring messages easy to manage.
 
-<a href="https://github.com/HakanBabus/EasyAnnouncement">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View EasyAnnouncement">
-</a>
+<sub>PHP · PocketMine-MP</sub>
+
+[Explore EasyAnnouncement →](https://github.com/HakanBabus/EasyAnnouncement)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 💬 [BadWord](https://github.com/HakanBabus/BadWord)
 
-Configurable PocketMine-MP plugin for **chat filtering and bad word blocking**.
+**Configurable chat moderation**
 
-**PHP · PocketMine-MP API 5**
+A PocketMine-MP plugin for chat filtering and bad word blocking, with configurable rules for server communities.
 
-<a href="https://github.com/HakanBabus/BadWord">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View BadWord">
-</a>
+<sub>PHP · PocketMine-MP API 5</sub>
+
+[Explore BadWord →](https://github.com/HakanBabus/BadWord)
 
 </td>
 </tr>
 </table>
 
-## What I'm Building Around
+## What I Explore
 
-```text
-AI-assisted development  →  better workflows, agents and tooling
-Local-first software     →  fast tools that stay close to the user
-Game technology          →  systems, simulations and experimentation
-Minecraft                →  PocketMine-MP plugins and server software
-````
+- **Local-first software** — responsive tools that stay close to the user, especially for editing and creative workflows.
+- **AI-assisted development** — agents, automation, and tooling that make development easier to organize.
+- **Game technology** — systems, simulations, and experiments that connect code with interactive experiences.
+- **Minecraft** — PocketMine-MP plugins and practical tools for server communities.
 
-I enjoy taking ideas from **rough experiments to usable software** — especially projects where tooling, interfaces, automation, and creative workflows meet.
+## How I Like to Build
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=blender,discord,js,nodejs,c,cs,php,java,github,godot&perline=6&theme=dark" alt="Tech stack">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-<img src="https://img.shields.io/badge/Fastify-202020?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
-<img src="https://img.shields.io/badge/PocketMine--MP-3C3C3C?style=flat-square&logo=minecraft&logoColor=white" alt="PocketMine-MP">
-
-</div>
-
-## GitHub Activity
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api?username=HakanBabus&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-        alt="Hakan Cineviz's GitHub Stats"
-      />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=HakanBabus&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=495"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HakanBabus&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&radius=8&custom_title=Contribution%20Activity"
-  alt="Contribution Activity"
-/>
-
-</div>
-
-
+Start with an idea, make a working version, then improve it through iteration. I'm especially drawn to projects where **interfaces, automation, and creative workflows** meet.
 
 ---
 
@@ -149,7 +97,7 @@ I enjoy taking ideas from **rough experiments to usable software** — especiall
 
 ### Build · Experiment · Iterate
 
-<sub>Currently exploring local-first software, AI-assisted development, and game technology.</sub>
+<sub>Exploring ideas through code, one project at a time.</sub>
 
 <br><br>
 
